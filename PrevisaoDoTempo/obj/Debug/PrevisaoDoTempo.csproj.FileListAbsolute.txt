@@ -1,0 +1,13 @@
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\bin\Debug\PrevisaoDoTempo.exe.config
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\bin\Debug\PrevisaoDoTempo.exe
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\bin\Debug\PrevisaoDoTempo.pdb
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.csprojAssemblyReference.cache
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.Form1.resources
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.Properties.Resources.resources
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.csproj.GenerateResource.cache
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.csproj.CoreCompileInputs.cache
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.exe
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.pdb
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Modgl\OneDrive\Área de Trabalho\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\PrevisaoDoTempo.csproj.CopyComplete
